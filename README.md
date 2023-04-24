@@ -1,7 +1,5 @@
 # Project Title
 Js internship test task
-## Description
-
 ### Installing
 * Fork and clone this repository
 * Run `IDE`
