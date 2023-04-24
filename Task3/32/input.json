@@ -1,0 +1,17 @@
+{
+  "persons": [
+    { "name": "John", "size": ["M"] },
+    { "name": "Jane", "size": ["S", "M"] },
+    { "name": "Bob", "size": ["L", "XL"] },
+    { "name": "Alice", "size": ["S", "M"] },
+    { "name": "Mike", "size": ["XXL"] }
+  ],
+  "tshirts":{
+    "S": 10,
+    "M": 15,
+    "L": 20,
+    "XL": 10,
+    "XXL": 1,
+    "XXXL": 2
+  }
+}
